@@ -1,6 +1,12 @@
 {
   "dependencies": {
+<<<<<<< HEAD
     "@tailwindcss/cli": "^4.1.18",
+=======
+    "@tailwindcss/cli": "^4.1.18"
+  },
+  "devDependencies": {
+>>>>>>> 8647323d307136a2d7301bdc13dd175f93e13280
     "tailwindcss": "^4.1.18"
   }
 }
